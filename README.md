@@ -5,7 +5,7 @@ AWS to Hive data pipeline tools leveraging Apache Spark in Python
 
 # Files included
 
-### Runner script
+- ### Runner script
 
 **Script file:** run.py
 
@@ -20,7 +20,7 @@ AWS to Hive data pipeline tools leveraging Apache Spark in Python
 **Sample run command:** *python run.py some_bucket some_prefix data_dir aws_data_table > run_result.txt*
 
 
-### ETL script
+- ### ETL script
 
 **Script file:** aws2hive/etl.py
 
